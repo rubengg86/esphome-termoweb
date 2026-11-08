@@ -63,4 +63,4 @@ Exactly the sequence §7 documents for dialect B (`proven 2026-10-10`), now obse
 
 4. **Docs:** a note that "receives perfectly but nothing you transmit gets any reaction, at any range" ⇒ check the module's crystal (FREQEST) would have saved this installation several evenings. The README's "tested with ATC Sun Ray heaters" now also covers from-scratch dialect-A pairing — happy to retest anything you'd like for that.
 
-Full logs (announcement sweeps, decoded frames, FREQEST measurements before/after retune, the adoption capture) available on request.
+The gateway config, modified firmware, and decoded on-air captures are published at https://github.com/rubengg86/esphome-termoweb (see `pairing-logs/00-decoded-frames.md`); raw capture files available on request. Happy to PR the FREQEST diagnostic if you'd take it, and to retest anything on this hardware.
