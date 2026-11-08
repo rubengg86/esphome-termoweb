@@ -1,0 +1,13 @@
+# Managed by ESPHome Device Builder — created because this directory
+# was not already a git repository. Edit freely; it won't be regenerated.
+.esphome/
+.device-builder*
+.receiver_peers.json
+.offloader_pairings.json
+.DS_Store
+secrets.yaml
+
+# never publish: contains device API key / AP password
+gateway.yaml
+# raw radio captures contain local SSID/IPs
+pairing-logs/*.txt
